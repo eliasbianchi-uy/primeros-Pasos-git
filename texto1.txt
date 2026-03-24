@@ -12,3 +12,14 @@ Salir del config list sin cerrar la consola es aprentando "q".
 Resetear a un commit anterior
 Copiando el id del commit y ejecutando
 > git reset --hard <identificador>
+
+Enlazar con un repositorio en Github
+> git remote add origin <url>
+
+para verlo
+> git remote -v
+
+Sincronizar repositorios
+> git push -u origin main
+Despúes de ejecutarlo por primera vez simplemente ejecutar
+> git push
