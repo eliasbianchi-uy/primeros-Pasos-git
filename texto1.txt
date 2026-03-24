@@ -1,1 +1,10 @@
-Hola mundo, esta es una prueba de repositorio.
+Hola mundo
+
+Explicando funcionamiento de Git.
+Paso 1 configurar usuario de Git:
+> git config --global user.name <nombre>
+> git config --global user.email <correo>
+
+Ver las configuraciones 
+> git config list
+Salir del config list sin cerrar la consola es aprentando "q".
