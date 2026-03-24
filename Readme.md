@@ -52,3 +52,5 @@ para borrar enlace al repositorio remoto
 ```sh
 git remote remove origin
 ```
+
+El formato `.md` es un archivo `markdown` utilizado por Github para mostrar el contendio ideal para documentación.
